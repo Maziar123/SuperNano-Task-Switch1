@@ -12,7 +12,7 @@ We try to use **modern C++20** features, **compatibility**, and **avoid STD** or
 
 - **Cross-Platform Compatibility**: Runs on x64, Cortex-M4F, and Cortex-M7F architectures
 - **Lightweight**: Minimal overhead, suitable for resource-constrained systems
-- **Cooperative Multitasking**: Efficient task switching without the need for a full RTOS
+- **Cooperative Multitasking**: Efficient task switching without the need for a full RTOS, in next  we ad managment event with high priority time ,but keep Cooperative this balance managment & safety 
 - **Easy Integration**: Simple API for creating and managing tasks
 - **Debuggable**: Optional debug output for development and troubleshooting
 - **Modern Build System**: Uses CMake for easy compilation across different platforms
