@@ -164,6 +164,7 @@ DEBUG_PRINT("Task %u is running", task_id);
 - The system uses cooperative multitasking, so tasks must yield voluntarily.
 - On ARM platforms, context switching is optimized using assembly code.
 - Avoid long-running operations without yielding to ensure responsive task switching.
+- in next we weork on special mechanism keep Cooperative & also high level managment for tune perfomance & safety on the fly
 
 ## Troubleshooting
 
