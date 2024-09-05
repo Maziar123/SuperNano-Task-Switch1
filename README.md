@@ -1,5 +1,6 @@
 # SuperNano-Task-Switch1
-super-nano Multi-Platform Task Switching System (current x64 & cortex-m)
+Goal of super-nano Multi-Platform Task Switching System (current x64 & cortex-m)
+** Build and revise are under way!**
 
 ## Overview
 
