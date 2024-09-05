@@ -4,6 +4,7 @@ super-nano Multi-Platform Task Switching System (current x64 & cortex-m)
 ## Overview
 
 The Multi-Platform Task Switching System is a lightweight, efficient, and portable implementation of a cooperative multitasking system. It supports x64, Cortex-M4F, and Cortex-M7F architectures, making it suitable for a wide range of applications from desktop software to embedded systems.
+We try to use **modern C++20** features, **compatibility**, and **avoid STD** or fat libs.
 
 ### Key Features
 
