@@ -11,7 +11,7 @@ We try to use **modern C++20** features, **compatibility**, and **avoid STD** or
 ### Key Features
 
 - **Cross-Platform Compatibility**: Runs on x64, Cortex-M4F, and Cortex-M7F architectures
-- **Lightweight**: Minimal overhead, suitable for resource-constrained systems
+- **Lightweight**: Minimal overhead, suitable for resource-constrained systems,KEEP arround KB of flast & bytes of RAm !! & arrount 100 cycle of cpu for switch
 - **Cooperative Multitasking**: Efficient task switching without the need for a full RTOS, in next  we ad managment event with high priority time ,but keep Cooperative this balance managment & safety 
 - **Easy Integration**: Simple API for creating and managing tasks
 - **Debuggable**: Optional debug output for development and troubleshooting
