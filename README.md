@@ -46,7 +46,7 @@ project_root/
 ### Prerequisites
 
 - CMake (version 3.15 or higher)
-- For x64: A modern C++ compiler (GCC, Clang, or MSVC)
+- For x64: A modern C++ compiler (GCC, Clang)
 - For ARM: arm-none-eabi-gcc toolchain
 
 ### Installation Steps
