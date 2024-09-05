@@ -1,5 +1,5 @@
 # SuperNano-Task-Switch1
-Goal of super-nano Multi-Platform  nona c++ Task Switching System (current x64 & cortex-m) with well free hard ware & software debugging system
+Goal of super-nano Multi-Platform  nano size c++ Task Switching System (current x64 & cortex-m) with well free hard ware & software debugging system
 
  **Build and revise are under way!**
 
