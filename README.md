@@ -14,7 +14,7 @@ We try to use **modern C++20** features, **compatibility**, and **avoid STD** or
 - **Lightweight**: Minimal overhead, suitable for resource-constrained systems,KEEP arround KB of flash & bytes of RAM !! & arrount 100 cycle of cpu for switch
 - **Cooperative Multitasking**: Efficient task switching without the need for a full RTOS, in next  we ad managment event with high priority time ,but keep Cooperative this balance managment & safety 
 - **Easy Integration**: Simple API for creating and managing tasks
-- **Debuggable**: Optional debug output for development and troubleshooting
+- **Debuggable**: Optional debug output for development and troubleshooting, **NEXT** under KB of code & can dubug & realtime trace with current SWD device
 - **Modern Build System**: Uses CMake for easy compilation across different platforms
 
 ## Architecture
